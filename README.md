@@ -29,6 +29,11 @@ You can also manually edit the configuration file to set a specific device ID. T
 - **macOS**: `~/Library/Application Support/Cursor/User/globalStorage/storage.json`
 - **Linux**: `~/.config/Cursor/User/globalStorage/storage.json`
 
+## Yet To Add
+
+- **Auto Delete Cursor Folder**
+- **Auto Account Generation**
+
 ## Important Notice
 
 This tool is developed for research and educational purposes only. Please use responsibly.
