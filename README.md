@@ -16,7 +16,9 @@ The tool generates a new device identifier, which allows Cursor to recognize you
 
 ## Installation & Usage
 
-Simply run the exe and spoof!
+Simply run the exe on "BypassBuilt" and spoof!
+or
+Download Visual Studio, Download the folder "CursorBypass" and open it on Visual Studio then build it!
 
 ## Configuration Location
 
