@@ -1,6 +1,7 @@
 # CursorBypass
 
 A utility tool that helps manage Cursor editor's device identification system by resetting stored device IDs. This can help users to resolve issues related to account restrictions when switching between accounts or during trial periods.
+(eg. Trial Limit Reached For This Machine)
 
 ## How It Works
 
