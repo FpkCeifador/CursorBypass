@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "laM6mDqe0wI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\CursorBypass\\CursorBypass\\CursorBypass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.10\\microsoft.netcore.app.runtime.win-x86.8.0.10.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.10\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.10.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.10\\microsoft.aspnetcore.app.runtime.win-x86.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

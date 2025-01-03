@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\CursorBypass\CursorBypass\bin\Release\net8.0\CursorBypass.exe
+C:\Users\david\source\repos\CursorBypass\CursorBypass\bin\Release\net8.0\CursorBypass.deps.json
+C:\Users\david\source\repos\CursorBypass\CursorBypass\bin\Release\net8.0\CursorBypass.runtimeconfig.json
+C:\Users\david\source\repos\CursorBypass\CursorBypass\bin\Release\net8.0\CursorBypass.dll
+C:\Users\david\source\repos\CursorBypass\CursorBypass\bin\Release\net8.0\CursorBypass.pdb
+C:\Users\david\source\repos\CursorBypass\CursorBypass\obj\Release\net8.0\CursorBypass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\CursorBypass\CursorBypass\obj\Release\net8.0\CursorBypass.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\CursorBypass\CursorBypass\obj\Release\net8.0\CursorBypass.AssemblyInfo.cs
+C:\Users\david\source\repos\CursorBypass\CursorBypass\obj\Release\net8.0\CursorBypass.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\CursorBypass\CursorBypass\obj\Release\net8.0\CursorBypass.dll
+C:\Users\david\source\repos\CursorBypass\CursorBypass\obj\Release\net8.0\refint\CursorBypass.dll
+C:\Users\david\source\repos\CursorBypass\CursorBypass\obj\Release\net8.0\CursorBypass.pdb
+C:\Users\david\source\repos\CursorBypass\CursorBypass\obj\Release\net8.0\CursorBypass.genruntimeconfig.cache
+C:\Users\david\source\repos\CursorBypass\CursorBypass\obj\Release\net8.0\ref\CursorBypass.dll

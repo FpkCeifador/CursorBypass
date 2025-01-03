@@ -1,0 +1,2 @@
+C:\Users\david\source\repos\CursorBypass\CursorBypass\bin\Release\net8.0\win-x64\publish\CursorBypass.pdb
+C:\Users\david\source\repos\CursorBypass\CursorBypass\bin\Release\net8.0\win-x64\publish\CursorBypass.exe
