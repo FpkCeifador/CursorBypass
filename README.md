@@ -12,7 +12,7 @@ The tool generates a new device identifier, which allows Cursor to recognize you
 
 - ✨ Automatic random device ID generation
 - 🔄 Automatic backup of original configuration
-- 📦 Click And Run.
+- 📦 One click spoof.
 
 ## Installation & Usage
 
