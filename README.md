@@ -6,7 +6,7 @@ A utility tool that helps manage Cursor editor's device identification system by
 
 The tool generates a new device identifier, which allows Cursor to recognize your system as a new device.
 
-![Device ID Management](./public/ids.png)
+![Screenshot 2025-01-03 223657](https://github.com/user-attachments/assets/f5e12b05-c598-464a-bfa6-55404979148a)
 
 ## Key Features
 
